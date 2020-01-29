@@ -1,0 +1,11 @@
+{
+  "name": "herbs-site-2",
+  "version": "1.0.0",
+  "description": "van rental site",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Edwin Santizo",
+  "license": "ISC"
+}
